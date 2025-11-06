@@ -1,6 +1,6 @@
 # Hi, I'm Aradhya 🙋‍♀️
 
-Just a Student learning web dev | Exploriong rest later
+
 
 - 🌲 I'm currently learning *Python | Machine Learning | Data Analysis (Numpy, Pandas, Seaborn)|*
 - 💬 Ask me about *SQL| Python | Power Bi |*
