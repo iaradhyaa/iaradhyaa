@@ -4,7 +4,6 @@
 
 - 🌲 I'm currently learning : **Python | Machine Learning | Data Analysis (Numpy, Pandas, Seaborn)|**
 - 💬 Ask me about : **SQL | Python | Power Bi |**
-- 📫How to reach me : *iaradhyamishraa@gmail.com*
-- 🌱Fun fact :  
+- 📫How to reach me : *iaradhyamishraa@gmail.com* 
 
 
